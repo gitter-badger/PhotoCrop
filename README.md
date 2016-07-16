@@ -1,5 +1,7 @@
 ## PhotoCrop
 
+[![Join the chat at https://gitter.im/wylhyz/PhotoCrop](https://badges.gitter.im/wylhyz/PhotoCrop.svg)](https://gitter.im/wylhyz/PhotoCrop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/wylhyz/PhotoCrop.svg?branch=master)](https://travis-ci.org/wylhyz/PhotoCrop)
 [![Apache Licence](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](http://www.apache.org/licenses/LICENSE-2.0.html)
 

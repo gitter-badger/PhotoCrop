@@ -1,4 +1,4 @@
-package io.lhyz.android.photocrop;
+package io.lhyz.android.sample;
 
 import org.junit.Test;
 

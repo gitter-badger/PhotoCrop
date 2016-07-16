@@ -1,4 +1,4 @@
-package io.lhyz.android.photocrop;
+package io.lhyz.android.sample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
